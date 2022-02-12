@@ -24,3 +24,32 @@ button:hover {
     background-color: rgb(255, 140, 0);
     border: 1px solid rgb(255, 140, 0);
 }
+section {
+    margin: 20px;
+}
+ul{
+    list-style-type: none;
+    padding:0px;
+    border: 1px solid red;
+    width: 550px;
+    margin: auto;
+    position: relative;
+    
+}
+
+
+li {
+    display: flex;
+    margin-right:auto;
+    margin: 10px 0px 10px 0px;
+}
+
+.police{
+    margin: 0px;
+    display: flex;
+    margin-left:auto;
+}
+
+.hidden {
+    display: none;
+}
